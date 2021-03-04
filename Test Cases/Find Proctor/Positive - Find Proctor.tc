@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully use the Find Proctor page</description>
+   <name>Positive - Find Proctor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9814574c-af67-4dd8-b8d9-88602f7d441c</testCaseGuid>
+</TestCaseEntity>

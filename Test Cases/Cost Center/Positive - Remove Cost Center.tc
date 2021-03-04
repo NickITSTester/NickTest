@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully delete a Cost Center</description>
+   <name>Positive - Remove Cost Center</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1326c0d-5e1d-4b22-8038-e7176346a684</testCaseGuid>
+</TestCaseEntity>

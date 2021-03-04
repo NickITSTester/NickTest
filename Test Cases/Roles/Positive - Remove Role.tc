@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully remove a Role</description>
+   <name>Positive - Remove Role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c00d873e-1865-4e2f-a9c8-ce63fe68f521</testCaseGuid>
+</TestCaseEntity>

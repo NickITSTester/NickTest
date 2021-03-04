@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Date Activated filter functions properly</description>
+   <name>Positive - Date Activated Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a07df724-4554-4922-b51c-09fb7e2fe125</testCaseGuid>
+</TestCaseEntity>

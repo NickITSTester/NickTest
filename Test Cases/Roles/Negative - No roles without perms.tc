@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify a user gets redirected if they do not have proper perms</description>
+   <name>Negative - No roles without perms</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eef0e16e-1e9a-4944-9038-344c80b4877c</testCaseGuid>
+</TestCaseEntity>

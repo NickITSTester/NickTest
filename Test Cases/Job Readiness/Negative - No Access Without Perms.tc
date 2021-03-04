@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can't access jobs without perms</description>
+   <name>Negative - No Access Without Perms</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca2ee2ec-5eb7-4371-ac0e-4a85fe656131</testCaseGuid>
+</TestCaseEntity>

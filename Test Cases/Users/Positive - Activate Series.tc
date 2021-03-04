@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully activate a series for a user</description>
+   <name>Positive - Activate Series</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>288a5b6d-b7dc-4408-9c69-e9dd26992368</testCaseGuid>
+</TestCaseEntity>

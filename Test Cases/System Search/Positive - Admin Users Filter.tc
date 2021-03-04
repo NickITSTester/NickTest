@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin Users Filter functions properly</description>
+   <name>Positive - Admin Users Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bbd8f7f-ec57-4707-b54b-19dae55f03c8</testCaseGuid>
+</TestCaseEntity>

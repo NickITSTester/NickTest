@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully search a user in system search</description>
+   <name>Positive - Search UserName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb5f9466-11ff-46bd-a2ea-6aa3e5a7d7c4</testCaseGuid>
+</TestCaseEntity>

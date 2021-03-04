@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully edit a job</description>
+   <name>Positive - Edit Job</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2d436ff-24bd-4114-9eee-db2eea682a52</testCaseGuid>
+</TestCaseEntity>

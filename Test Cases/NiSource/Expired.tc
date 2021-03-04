@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tests tasks can expire</description>
+   <name>Expired</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b085f14c-ce4f-42d1-8d20-33cca48e8a17</testCaseGuid>
+</TestCaseEntity>

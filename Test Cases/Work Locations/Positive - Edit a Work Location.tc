@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully edit a Work Location</description>
+   <name>Positive - Edit a Work Location</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6650d006-c3ca-4110-ace4-44ed6a74fba0</testCaseGuid>
+</TestCaseEntity>

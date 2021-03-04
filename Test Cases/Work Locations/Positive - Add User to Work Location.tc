@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully add a user to a Work Location</description>
+   <name>Positive - Add User to Work Location</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9a31dd1-a033-47b2-b86c-ca3d012b5808</testCaseGuid>
+</TestCaseEntity>

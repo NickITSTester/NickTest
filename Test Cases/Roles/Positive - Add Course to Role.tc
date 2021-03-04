@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully add a course to a Role</description>
+   <name>Positive - Add Course to Role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>651cc674-44e9-45d9-8bec-5323783563ec</testCaseGuid>
+</TestCaseEntity>

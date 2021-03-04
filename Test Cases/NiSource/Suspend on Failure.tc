@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Suspend every task in a task list with a failure</description>
+   <name>Suspend on Failure</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b5082e8-8d5a-43b6-abde-a362a3e3eaa5</testCaseGuid>
+   <variable>
+      <defaultValue>197</defaultValue>
+      <description></description>
+      <id>ae6ce2b6-492e-47ae-9cd7-007f6a87d849</id>
+      <masked>false</masked>
+      <name>numOfTasks</name>
+   </variable>
+   <variable>
+      <defaultValue>'\\:.*'</defaultValue>
+      <description></description>
+      <id>f2c4545b-a698-44a6-a173-e6495261c043</id>
+      <masked>false</masked>
+      <name>reg</name>
+   </variable>
+</TestCaseEntity>

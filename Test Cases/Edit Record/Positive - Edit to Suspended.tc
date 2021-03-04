@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully suspend a record</description>
+   <name>Positive - Edit to Suspended</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ff6b0e7-06bd-4b99-8d6a-da2e4a85db8a</testCaseGuid>
+</TestCaseEntity>

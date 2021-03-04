@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Inactive Filter functions properly</description>
+   <name>Positive - Inactive Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b84970cf-dca4-4c3c-b729-4c5dfcbe6ae2</testCaseGuid>
+</TestCaseEntity>

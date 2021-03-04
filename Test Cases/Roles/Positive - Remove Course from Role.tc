@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully remove Course from a Role</description>
+   <name>Positive - Remove Course from Role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a40b2c32-4286-4e0f-be4d-efb9a9fca9c9</testCaseGuid>
+</TestCaseEntity>

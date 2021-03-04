@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can't create a user that already exists</description>
+   <name>Boundary - User already exists in another Company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f59fc2b0-f985-4269-bee3-86746c7eb7a7</testCaseGuid>
+</TestCaseEntity>

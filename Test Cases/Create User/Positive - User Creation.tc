@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully create a user</description>
+   <name>Positive - User Creation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26da50f4-af1f-494d-830a-b2e04441f574</testCaseGuid>
+</TestCaseEntity>

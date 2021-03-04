@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully edit a Role</description>
+   <name>Positive - Edit Role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01d06e99-b518-4692-bbc6-d90fac15a6dd</testCaseGuid>
+</TestCaseEntity>

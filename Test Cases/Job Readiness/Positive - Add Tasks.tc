@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully add tasks to jobs</description>
+   <name>Positive - Add Tasks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8efa4e89-09eb-4c78-881d-5f0faac2d472</testCaseGuid>
+</TestCaseEntity>

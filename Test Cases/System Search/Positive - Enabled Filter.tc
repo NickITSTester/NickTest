@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enabled filter functions properly</description>
+   <name>Positive - Enabled Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccc5f905-805e-4183-bbb5-372b0d15de4a</testCaseGuid>
+</TestCaseEntity>

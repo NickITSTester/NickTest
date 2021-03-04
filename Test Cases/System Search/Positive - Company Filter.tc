@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Company Filter functions properly</description>
+   <name>Positive - Company Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f741e3f7-bae4-42ff-a499-910035787453</testCaseGuid>
+</TestCaseEntity>

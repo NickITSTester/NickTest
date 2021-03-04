@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully create a Role</description>
+   <name>Positive - Role Creation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e22a3ef-81c2-4185-93ad-b652a76176f7</testCaseGuid>
+</TestCaseEntity>

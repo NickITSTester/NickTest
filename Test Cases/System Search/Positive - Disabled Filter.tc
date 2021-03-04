@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can search for Disabled Users</description>
+   <name>Positive - Disabled Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>055992f1-fca3-4d81-af8f-17ba014a3c3c</testCaseGuid>
+</TestCaseEntity>

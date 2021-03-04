@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>No results on Invalid Username</description>
+   <name>Negative - Invalid Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba017d59-ae5c-4b9f-a35c-226b052604bd</testCaseGuid>
+</TestCaseEntity>

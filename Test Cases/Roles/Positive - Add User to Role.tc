@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully add a User to a Role</description>
+   <name>Positive - Add User to Role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>458e60b9-a826-4978-9492-fb38a4702b2c</testCaseGuid>
+</TestCaseEntity>

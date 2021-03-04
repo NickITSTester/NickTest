@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>First Name filter functions properly</description>
+   <name>Positive - First and Last Name Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea5b61ae-c0cd-4ed8-9c11-b5e28f7f255c</testCaseGuid>
+</TestCaseEntity>

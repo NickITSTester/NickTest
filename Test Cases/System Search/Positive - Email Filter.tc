@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Email filter functions properly</description>
+   <name>Positive - Email Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec667c68-1e26-4a7c-a155-4d3dfbb02f46</testCaseGuid>
+</TestCaseEntity>

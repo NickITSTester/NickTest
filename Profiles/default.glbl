@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Waits 5 seconds</description>
+      <initValue>5</initValue>
+      <name>G_Timeout_Small</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Used for User Creation</description>
+      <initValue>'KatalonTester27'</initValue>
+      <name>NewUser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Used for User Creation</description>
+      <initValue>'SampleKatalonTester27'</initValue>
+      <name>NewUser2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>QATester Username</description>
+      <initValue>'QATester'</initValue>
+      <name>QATester</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>QATester Password (Dev)</description>
+      <initValue>'v8abkqSNdCyh+1+1p6VfG045qnnr3Imx'</initValue>
+      <name>QATesterPass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Detailed Report in Dev</description>
+      <initValue>'https://qa.its-training.com/DetailedModuleReport.aspx'</initValue>
+      <name>DetailedModule</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Create Knowledge in Dev</description>
+      <initValue>'https://qa.its-training.com/CreateKnowledgeRecord.aspx'</initValue>
+      <name>CreateKnowledge</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SmoketestCompanyManager Username</description>
+      <initValue>'SmoketestCompanyManager'</initValue>
+      <name>SmoketestCompanyManager</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SmoketestStudent Username</description>
+      <initValue>'SmoketestStudent'</initValue>
+      <name>SmoketestStudent</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SmoketestEvaluator Username</description>
+      <initValue>'SmoketestEvaluator'</initValue>
+      <name>SmoketestEvaluator</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SmoketestProctor Username</description>
+      <initValue>'SmoketestProctor'</initValue>
+      <name>SmoketestProctor</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password for Smoketest Users</description>
+      <initValue>'mIYIybDKTrQJ7DT7O0fshQ=='</initValue>
+      <name>SmoketestPass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>QATester Password in Prod</description>
+      <initValue>'v8abkqSNdCyh+1+1p6VfG/cRtBHpvTXe'</initValue>
+      <name>QATesterPassProd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Upload Skill in Dev</description>
+      <initValue>'https://qa.its-training.com/ManualSkillUpload.aspx'</initValue>
+      <name>UploadSkill</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User for task testing</description>
+      <initValue>'automateStudent02'</initValue>
+      <name>TaskListTester</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>List of Errors</description>
+      <initValue>[]</initValue>
+      <name>errorList</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'NiSourceExpiredTest'</initValue>
+      <name>ExpiredTester</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'no'</initValue>
+      <name>errorHandling</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'v8abkqSNdCyh+1+1p6VfG045qnnr3Imx'</initValue>
+      <name>QATesterPassQA</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'qa'</initValue>
+      <name>Env</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'qa.its-training.com'</initValue>
+      <name>environmentURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>qualStatus</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>RecordCount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://learn.its-training.com/TaskProfileLegacyReport.aspx'</initValue>
+      <name>LegacyTaskProfile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SmoketestCompanyAdmin'</initValue>
+      <name>SmoketestAdmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'mIYIybDKTrQJ7DT7O0fshQ=='</initValue>
+      <name>SmoketestAdminPW</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

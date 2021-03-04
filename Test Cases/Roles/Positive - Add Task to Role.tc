@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully add a task to a Role</description>
+   <name>Positive - Add Task to Role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d059c53-2d44-4f25-8dfc-0eaa277c6ad0</testCaseGuid>
+</TestCaseEntity>

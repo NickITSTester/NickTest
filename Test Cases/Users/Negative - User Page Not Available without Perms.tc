@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cannot access Users Page without perms</description>
+   <name>Negative - User Page Not Available without Perms</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d09d5846-8c39-4e6e-a256-59352c62d8de</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully deactivate a series for a user</description>
+   <name>Positive - Deactivate Series</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6101f62-8480-4ed3-83d4-8a0d12d4df90</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully access My Downloads with proper perms</description>
+   <name>Positive - Access My Downloads with Perms</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>168e5cee-3374-411c-b3e2-2a13e26fe23a</testCaseGuid>
+</TestCaseEntity>

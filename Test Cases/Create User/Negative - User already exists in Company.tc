@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Should not be able to create a user that already exists</description>
+   <name>Negative - User already exists in Company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad024d06-5048-4ee9-9722-7cfe81c02b77</testCaseGuid>
+</TestCaseEntity>

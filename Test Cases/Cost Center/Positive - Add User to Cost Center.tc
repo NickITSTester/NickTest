@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can successfully add users to Cost Center</description>
+   <name>Positive - Add User to Cost Center</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0f95556-eb73-45aa-bf5b-f6eff1ca2736</testCaseGuid>
+</TestCaseEntity>
